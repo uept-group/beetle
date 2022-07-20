@@ -1,5 +1,5 @@
 # beetle
 kafka Event Steaming Platform
 
-- simple kafka console & admin
+- simple kafka console
 - real-time data flows and processing.
